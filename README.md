@@ -1,1 +1,1 @@
-# miniguia-estudos-notebooklm
+O assunto para esse miniguia foi de react, mas o porque de React? Bom, nesse meu semestre de estudos da faculdade, estamos estudando bastante esse tema, e para me ajudar a entender mais, nada melhor que usar o notebookLM como um suporte de estudos sobre o assunto, adicionando fontes confiavéis a ele. 
