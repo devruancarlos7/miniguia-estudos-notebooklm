@@ -1,4 +1,4 @@
-# Contexto e Objetivos
+# Contexto e Objetivos  
 Escolhi o tema React porque estou desenvolvendo o projeto meuPet e precisava aprofundar meu conhecimento em componentes e estados dinâmicos. O objetivo deste caderno é consolidar os fundamentos necessários para criar interfaces modernas e interativas.
 
 # Curadoria de Fontes
